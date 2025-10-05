@@ -32,16 +32,16 @@ Este repositório documenta a experiência prática de criação e gerenciamento
 ## 📸 Capturas de Tela
 
 ### Criação da VM
-![Criação da VM](images/criacao-vm.png)
+![Criação da VM](./images/criacao-vm.png)
 
 ### Configuração de rede/firewall
-![Configuração de rede](images/config-firewall.png)
+![Configuração de rede](./images/config-firewall.png)
 
 ### Acesso remoto via SSH
-![Acesso via SSH](images/acesso-ssh.png)
+![Acesso via SSH](./images/acesso-ssh.png)
 
 ### Página padrão do Apache após instalação
-![Apache rodando](images/result-finish.png)
+![Apache rodando](./images/result-finish.png)
 
 ## 📁 Estrutura do Projeto
 
